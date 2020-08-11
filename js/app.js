@@ -1,4 +1,7 @@
-baguetteBox.run('.gallery');
+baguetteBox.run('.gallery'), {
+    buttons: true
+};
+
 
 function myFunction() {
     // Declare variables
